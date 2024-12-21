@@ -1,1 +1,17 @@
+header {
+    color:white;
+    background-color: orange;
+    font-size: 30px;
+}
 
+footer {
+    color: white;
+    background-color: orange;
+    font-size: 20px;
+}
+
+h2 {
+    color: black;
+    background-color: red;
+    font-size: 20px;
+}
